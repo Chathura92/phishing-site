@@ -3,6 +3,7 @@ This is about Phshing attacks.Phishing is the attempt to obtain sensitive inform
      
      
      ************************************************************************************************************************************
-     This article is written only for educating people about how phishing works and how should they prevent phishing scams. Please don’t        use these techniques for malicious purposes.
+     This article is written only for educating people about how phishing works and how should they prevent phishing scams.
+     Please don’t use these techniques for malicious purposes.
      ************************************************************************************************************************************
                 
